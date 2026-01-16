@@ -1,0 +1,3 @@
+/Users/nathanana/Coding/EcoSys/build/CMakeFiles/ecosys.dir
+/Users/nathanana/Coding/EcoSys/build/CMakeFiles/edit_cache.dir
+/Users/nathanana/Coding/EcoSys/build/CMakeFiles/rebuild_cache.dir

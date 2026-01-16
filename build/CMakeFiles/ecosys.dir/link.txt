@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/ecosys.dir/src/main.cpp.o CMakeFiles/ecosys.dir/src/Grid.cpp.o CMakeFiles/ecosys.dir/src/Simulation.cpp.o CMakeFiles/ecosys.dir/src/Visualizer.cpp.o CMakeFiles/ecosys.dir/src/DataLogger.cpp.o -o ecosys
